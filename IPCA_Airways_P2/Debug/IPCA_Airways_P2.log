@@ -1,0 +1,23 @@
+﻿  Main.c
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(10,8): warning C4013: 'system' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(302,13): warning C4013: 'strlen' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(308,24): warning C4013: 'strcmp' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1053,8): warning C4022: 'fread': incompatibilidade de ponteiro para parâmetro real 1
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1127,36): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1128,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1143,22): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1148,25): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1106,1): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1150,1): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1178,6): warning C4101: 'nVoo': variável local não referenciada
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1186,6): warning C4101: 'lugRestantes2': variável local não referenciada
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1183,6): warning C4101: 'lugRestantes': variável local não referenciada
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1177,7): warning C4101: 'origemVoo': variável local não referenciada
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1322,22): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1327,10): warning C4013: 'strcpy' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1334,39): warning C4244: '+=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1351,41): warning C4244: '+=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1278,14): warning C4101: 'Saida2': variável local não referenciada
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1383,1): warning C4047: 'inicializando': 'int' difere em níveis de indireção de 'void *'
+C:\Users\Diogo\Desktop\IPCA_Airways_P2\IPCA_Airways_P2\Main.c(1384,1): warning C4047: 'inicializando': 'int' difere em níveis de indireção de 'void *'
+  IPCA_Airways_P2.vcxproj -> C:\Users\Diogo\Desktop\IPCA_Airways_P2\Debug\IPCA_Airways_P2.exe
